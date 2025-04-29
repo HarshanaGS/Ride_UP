@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "457404594664",
+    "firebase_url": "https://newagent-e91b0.firebaseio.com",
+    "project_id": "newagent-e91b0",
+    "storage_bucket": "newagent-e91b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457404594664:android:be31f5f7092dce759fcc5d",
+        "android_client_info": {
+          "package_name": "com.example.online_vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457404594664-rfda2uj9fuelre3k4penkr0rdpq065js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroiU8hghqTsjF_dDPCYfXIf_p9oCp8aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457404594664-rfda2uj9fuelre3k4penkr0rdpq065js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457404594664:android:fb26284c67eced269fcc5d",
+        "android_client_info": {
+          "package_name": "com.example.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457404594664-rfda2uj9fuelre3k4penkr0rdpq065js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAroiU8hghqTsjF_dDPCYfXIf_p9oCp8aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457404594664-rfda2uj9fuelre3k4penkr0rdpq065js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
