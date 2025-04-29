@@ -1,0 +1,2 @@
+# Ride_UP
+Ridesharing is a smart urban mobility solution designed to reduce traffic congestion, lower carbon emissions, and make commuting more cost-effective. This project involves the development of a mobile application and an administrative web dashboard that connects drivers with empty seats to passengers heading in the same direction. By optimizing routes using real-time data and machine learning algorithms, the platform ensures minimal detours, efficient ride matching, and environmental sustainability.
